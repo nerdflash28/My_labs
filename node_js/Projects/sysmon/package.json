@@ -1,0 +1,17 @@
+{
+  "name": "sysmon",
+  "version": "1.0.0",
+  "description": "this project is about monitoring the system metrics and displaying them on CLI console using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0",
+    "systeminformation": "^5.27.8"
+  }
+}
